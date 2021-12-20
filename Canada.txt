@@ -1,0 +1,12 @@
+Oscar
+36
+H
+60
+Manuel
+21
+H
+100
+Isabel
+60
+M
+40

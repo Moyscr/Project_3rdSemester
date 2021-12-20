@@ -1,0 +1,12 @@
+Gael
+20
+H
+90
+Tania
+55
+M
+80
+Roman
+45
+H
+100

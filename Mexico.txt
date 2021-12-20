@@ -1,0 +1,12 @@
+Cesar
+30
+H
+100
+Julio
+55
+H
+100
+Hector
+30
+H
+100
